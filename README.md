@@ -84,6 +84,10 @@
 - [HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox): 一个纯净、强大、优雅的WinPE（不维护）
 - [tts-vue](https://github.com/LokerL/tts-vue): 微软语音合成工具
 
+### Android Tool
+
+- [Minimal-Todo](https://github.com/avjinder/Minimal-Todo): Material To-Do App
+
 ### Desktop Tool
 
 - [rofi](https://github.com/davatorium/rofi): A window switcher, application launcher and dmenu replacement
@@ -133,6 +137,11 @@
 - [xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
 - [httpx](https://github.com/encode/httpx): A next generation HTTP client for Python
 - [httpstat](https://github.com/davecheney/httpstat): It's like curl -v, with colours
+
+### Media tool
+
+- [vlc](https://github.com/videolan/vlc): VLC media player
+- [mpc-hc](https://github.com/clsid2/mpc-hc): Media Player Classic
 
 ### VPN
 
