@@ -143,6 +143,11 @@
 - [vlc](https://github.com/videolan/vlc): VLC media player
 - [mpc-hc](https://github.com/clsid2/mpc-hc): Media Player Classic
 
+### Torrent Tool
+
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent): a bittorrent client programmed in C++ / Qt
+- [transmission](https://github.com/transmission/transmission): Official Transmission BitTorrent client repository
+
 ### VPN
 
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
