@@ -21,6 +21,7 @@
 - vlc：视频播放工具，支持播放 rtsp 视频流
 - potplayer：Windows 下轻量级的多媒体播放软件
 - mpc-hc：开源的轻量级多媒体播放软件，支持 Windows 平台，UI 简陋
+- celluloid: A simple GTK+ frontend for mpv
 
 ## Torrent Tool
 

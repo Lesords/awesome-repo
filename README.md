@@ -90,18 +90,30 @@
 
 ### Desktop Tool
 
-- [rofi](https://github.com/davatorium/rofi): A window switcher, application launcher and dmenu replacement
-- [rofi configuration](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus
-- [picom](https://github.com/yshui/picom): A lightweight compositor for X11 with animation support
-- [polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
 - [sway](https://github.com/swaywm/sway): i3-compatible Wayland compositor
 - [Hyprland](https://github.com/hyprwm/Hyprland): a 100% independent, dynamic tiling Wayland compositor
 - [Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots): Hyprland configuration files or dotfiles
-- [mako](https://github.com/emersion/mako): A lightweight Wayland notification daemon
 - [Hypr](https://github.com/hyprwm/Hypr): Hypr is a tiling window manager written in modern C++
-- [Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors
 - [niri](https://github.com/niri-wm/niri): A scrollable-tiling Wayland compositor
 - [bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
+- [material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux extending GNOME Shell
+
+### Desktop Extension Tool
+
+- [i3lock-fancy](https://github.com/meskarune/i3lock-fancy): i3lock bash script is used to optimize the lock screen effect
+- [i3status-rust](https://github.com/greshake/i3status-rust): a feature-rich and resource-friendly replacement for i3status
+- [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status): a modular, theme-able status line generator for the i3 window manager
+- [polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
+- [rofi](https://github.com/davatorium/rofi): A window switcher, application launcher and dmenu replacement
+- [rofi configuration](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus
+- [greenclip](https://github.com/erebe/greenclip): simple clipboard manager to be integrated with rofi - Static binary available
+- [picom](https://github.com/yshui/picom): A lightweight compositor for X11 with animation support
+- [dunst](https://github.com/dunst-project/dunst):  Lightweight and customizable notification daemon
+- [mako](https://github.com/emersion/mako): A lightweight Wayland notification daemon
+- [Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors
+- [vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible
+- [flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software
+- [plank](https://github.com/ricotz/plank): the simplest dock on the planet(X11 Only)
 
 ### Terminal Emulator
 
@@ -125,8 +137,10 @@
 - [joshuto](https://github.com/kamiyaa/joshuto): ranger-like terminal file manager written in Rust
 - [yazi](https://github.com/sxyazi/yazi): Blazing fast terminal file manager written in Rust
 - [nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
+- [superfile](https://github.com/yorukot/superfile): Pretty fancy and modern terminal file manager
 - [lf](https://github.com/gokcehan/lf): a terminal file manager written in Go
 - [ctpv](https://github.com/NikitaIvanovV/ctpv): Image previews for lf file manager
+- [broot](https://github.com/Canop/broot): a better way to navigate directories, find files, and launch commands
 
 ### HTTP Tool
 
@@ -142,6 +156,7 @@
 
 - [vlc](https://github.com/videolan/vlc): VLC media player
 - [mpc-hc](https://github.com/clsid2/mpc-hc): Media Player Classic
+- [celluloid](https://github.com/celluloid-player/celluloid): A simple GTK+ frontend for mpv
 
 ### Torrent Tool
 
