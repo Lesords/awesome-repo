@@ -62,7 +62,71 @@
 - [acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [fail2ban](https://github.com/fail2ban/fail2ban): Daemon to ban hosts that cause multiple authentication errors
 
+### Language Server
+
+- [clangd](https://github.com/clangd/clangd): clangd language server
+- [ccls](https://github.com/MaskRay/ccls): C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
+
 ## Tool
+
+### TUI Tool
+
+- [tmux](https://github.com/tmux/tmux): a terminal multiplexer
+- [zellij](https://github.com/zellij-org/zellij): a workspace aimed at developers, ops-oriented people and anyone who loves the terminal
+- [starship](https://github.com/starship/starship): The minimal, blazing-fast, and infinitely customizable prompt for any shell
+- [autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
+- [mcfly](https://github.com/cantino/mcfly): Fly through your shell history
+- [Clipboard](https://github.com/Slackadays/Clipboard): smart clipboard manager
+- [tlrc](https://github.com/tldr-pages/tlrc): Official tldr client written in Rust
+- [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
+- [lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
+- [skopeo](https://github.com/containers/skopeo): Work with remote images registries - retrieving information, images, signing content
+- [tig](https://github.com/jonas/tig): Text-mode interface for git
+- [fzf](https://github.com/junegunn/fzf): A command-line fuzzy finder
+- [fzy](https://github.com/jhawthorn/fzy): A simple, fast fuzzy finder for the terminal
+- [skim](https://github.com/skim-rs/skim): Fuzzy Finder in rust
+- [ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern
+- [fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
+- [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command
+- [exa](https://github.com/ogham/exa): A modern replacement for ‘ls’
+- [eza](https://github.com/eza-community/eza): A modern alternative to ls
+- [lsd](https://github.com/lsd-rs/lsd): The next gen ls command
+- [duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
+- [dust](https://github.com/bootandy/dust): A more intuitive version of du in rust
+- [dua-cli](https://github.com/Byron/dua-cli): View disk space usage and delete unwanted data, fast
+- [bloaty](https://github.com/google/bloaty): a size profiler for binaries
+- [bat](https://github.com/sharkdp/bat): A cat(1) clone with wings
+- [jless](https://github.com/PaulJuliusMartinez/jless): jless is a command-line JSON viewer
+- [lnav](https://github.com/tstack/lnav): Log file navigator
+- [tailspin](https://github.com/bensadeh/tailspin): A log file highlighter
+- [choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to cut
+- [hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer
+- [delta](https://github.com/dandavison/delta): A syntax-highlighting pager
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): makes your diffs human readable instead of machine readable
+- [icdiff](https://github.com/jeffkaufman/icdiff): improved colored diff
+- [tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly
+- [btop](https://github.com/aristocratos/btop): A monitor of resources
+- [bottom](https://github.com/ClementTsang/bottom): A customizable cross-platform graphical process/system monitor for the terminal
+- [gotop](https://github.com/cjbassi/gotop): A terminal based graphical activity monitor inspired by gtop and vtop
+- [sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting
+- [wavemon](https://github.com/uoaerg/wavemon): wavemon is an ncurses-based monitoring application for wireless network devices on Linux
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch): A maintained, feature-rich and performance oriented, neofetch like system information tool
+- [onefetch](https://github.com/o2sh/onefetch): Command-line Git information tool
+- [hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
+- [ctags](https://github.com/universal-ctags/ctags): A maintained ctags implementation
+- [Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling
+- [compiledb](https://github.com/nickdiego/compiledb): Tool for generating Clang's JSON Compilation Database files for make-based build systems
+- [term.everything](https://github.com/mmulet/term.everything): Run any GUI app in the terminal
+- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
+- [termshark](https://github.com/gcla/termshark): A terminal UI for tshark, inspired by Wireshark
+- [tio](https://github.com/tio/tio): A serial device I/O tool
+- [ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
+- [frogmouth](https://github.com/Textualize/frogmouth): A Markdown browser for your terminal
+- [ttyper](https://github.com/max-niederman/ttyper): Terminal-based typing test
+- [ShellCrash](https://github.com/juewuy/ShellCrash): Run sing-box/mihomo as client in shell
+- [shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models
+- [go-musicfox](https://github.com/go-musicfox/go-musicfox): 用Go写的一款网易云音乐命令行客户端
 
 ### Windows Tool
 
@@ -114,6 +178,8 @@
 - [vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible
 - [flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software
 - [plank](https://github.com/ricotz/plank): the simplest dock on the planet(X11 Only)
+- [dash-to-dock](https://github.com/micheleg/dash-to-dock): A dock for the Gnome Shell
+- [eww](https://github.com/elkowar/eww): ElKowars wacky widgets
 
 ### Terminal Emulator
 
@@ -125,6 +191,7 @@
 
 ### Terminal Editor
 
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim): AstroNvim is an aesthetic and feature-rich neovim config
 - [helix](https://github.com/helix-editor/helix): A post-modern modal text editor
 - [evil-helix](https://github.com/usagi-flow/evil-helix): A soft fork of Helix which introduces Vim keybindings and more
 - [kakoune](https://github.com/mawww/kakoune): mawww's experiment for a better code editor
@@ -133,6 +200,7 @@
 ### Terminal File Manager
 
 - [ranger](https://github.com/ranger/ranger): A VIM-inspired filemanager for the console
+- [ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons): Ranger plugin that adds file glyphs / icon support to Ranger
 - [vifm](https://github.com/vifm/vifm): a curses based Vim-like file manager extended with some useful ideas from mutt
 - [joshuto](https://github.com/kamiyaa/joshuto): ranger-like terminal file manager written in Rust
 - [yazi](https://github.com/sxyazi/yazi): Blazing fast terminal file manager written in Rust
@@ -141,6 +209,17 @@
 - [lf](https://github.com/gokcehan/lf): a terminal file manager written in Go
 - [ctpv](https://github.com/NikitaIvanovV/ctpv): Image previews for lf file manager
 - [broot](https://github.com/Canop/broot): a better way to navigate directories, find files, and launch commands
+- [ueberzug](https://github.com/ueber-devel/ueberzug): a command line util which allows one to draw images on terminals by using child windows
+- [ueberzugpp](https://github.com/jstkdng/ueberzugpp): a command line utility written in C++ which allows to draw images on terminals
+
+### Vibe coding tool
+
+- [claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal
+- [opencode](https://github.com/anomalyco/opencode): The open source coding agent
+- [codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
+- [gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal
+- [grok-cli](https://github.com/superagent-ai/grok-cli): An open-source autonomous agent powered by Grok
+- [aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 
 ### HTTP Tool
 
