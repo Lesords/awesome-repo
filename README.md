@@ -34,6 +34,8 @@
 - [pcl](https://github.com/PointCloudLibrary/pcl): Point Cloud Library (PCL)
 - [box2d](https://github.com/erincatto/box2d): a 2D physics engine for games
 - [SFML](https://github.com/SFML/SFML): Simple and Fast Multimedia Library
+- [upx](https://github.com/upx/upx): the Ultimate Packer for eXecutables
+- [blender](https://github.com/blender/blender): Blender is the free and open source 3D creation suite
 
 ### Rust
 
@@ -52,6 +54,7 @@
 
 ### Python
 
+- [uv](https://github.com/astral-sh/uv): An extremely fast Python package and project manager
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - [manim](https://github.com/ManimCommunity/manim): Manim is an animation engine for explanatory math videos
 - [textual](https://github.com/Textualize/textual): The lean application framework for Python
@@ -150,7 +153,22 @@
 
 ### Android Tool
 
+- [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
 - [Minimal-Todo](https://github.com/avjinder/Minimal-Todo): Material To-Do App
+- [plain-app](github.com/plainhub/plain-app): an open-source app that lets you securely manage your phone from a web browser
+- [nextplayer](github.com/anilbeesetti/nextplayer): An Android native video player
+- [AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer): Android view for displaying PDFs rendered with PdfiumAndroid
+- [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer): Android application to analyze Wi-Fi signals
+- [LibChecker](https://github.com/LibChecker/LibChecker): An app to view libraries used in apps in your device
+- [gkd](https://github.com/gkd-kit/gkd): 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用
+- [markor](https://github.com/gsantner/markor): Text editor - Notes & ToDo (for Android)
+
+### Editor Tool
+
+- [overleaf](https://github.com/overleaf/overleaf): A web-based collaborative LaTeX editor
+- [ImHex](https://github.com/WerWolv/ImHex): A Hex Editor for Reverse Engineers
+- [marktext](https://github.com/marktext/marktext): A simple and elegant markdown editor, available for Linux, macOS and Windows
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): free and open-source interactive source explorer
 
 ### Desktop Tool
 
@@ -188,6 +206,8 @@
 - [ghostty](https://github.com/ghostty-org/ghostty): Ghostty is a fast, feature-rich, and cross-platform terminal emulator
 - [wezterm](https://github.com/wezterm/wezterm): A GPU-accelerated cross-platform terminal emulator and multiplexer
 - [WindTerm](https://github.com/kingToolbox/WindTerm): A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal
+- [cmux](https://github.com/manaflow-ai/cmux): Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [limux](https://github.com/am-will/limux): GPU-accelerated terminal multiplexer for Linux
 
 ### Terminal Editor
 
@@ -220,6 +240,7 @@
 - [gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal
 - [grok-cli](https://github.com/superagent-ai/grok-cli): An open-source autonomous agent powered by Grok
 - [aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
+- [tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
 
 ### HTTP Tool
 
@@ -236,6 +257,12 @@
 - [vlc](https://github.com/videolan/vlc): VLC media player
 - [mpc-hc](https://github.com/clsid2/mpc-hc): Media Player Classic
 - [celluloid](https://github.com/celluloid-player/celluloid): A simple GTK+ frontend for mpv
+
+### Download Tool
+
+- [you-get](https://github.com/soimort/you-get): Dumb downloader that scrapes the web
+- [mediago](https://github.com/caorushizi/mediago): A cross-platform video downloader with built-in sniffing — point it at a page, pick what you want, and save
+- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader): Downloads videos and playlists from YouTube
 
 ### Torrent Tool
 
@@ -260,13 +287,31 @@
 - [Authenticator](https://github.com/mattrubin/Authenticator): Two-Factor Authentication Client for iOS
 - [Tofu](https://github.com/iKenndac/Tofu): An easy-to-use two-factor authentication app for iOS
 
+### Hacker Tool
+
+- [cheat-engine](https://github.com/cheat-engine/cheat-engine): A development environment focused on modding
+- [binwalk](https://github.com/ReFirmLabs/binwalk): Firmware Analysis Tool
+- [scaninfo](https://github.com/redtoolskobe/scaninfo): fast scan for redtools
+- [hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers
+
+### Virtual Machine Tool
+
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker
+- [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): a Bash script that creates a macOS virtual machine guest on VirtualBox
+- [unlocker](https://github.com/paolo-projects/unlocker): VMware Workstation macOS
+- [unlocker](https://github.com/DrDonk/unlocker): VMware macOS utilities
+- [webvm](https://github.com/leaningtech/webvm): Virtual Machine for the Web
+- [shadPS4](https://github.com/shadps4-emu/shadPS4): PlayStation 4 emulator for Windows, Linux, macOS
+
 ### Browser Extension
 
 - [omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity
 - [textfox](https://github.com/adriankarlen/textfox): firefox theme for the tui enthusiast
+- [cat-catch](https://github.com/xifangczy/cat-catch): 浏览器资源嗅探扩展
 
 ## Interesting projects
 
 - [deskhop](https://github.com/hrvach/deskhop): Fast Desktop Switching Device
 - [pikvm](https://github.com/pikvm/pikvm): Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [smartknob](https://github.com/scottbez1/smartknob): Haptic input knob with software-defined endstops and virtual detents
+- [awtrix3](https://github.com/Blueforcer/awtrix3): Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix
