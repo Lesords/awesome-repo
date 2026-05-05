@@ -64,23 +64,37 @@
 - [tuic](https://github.com/tuic-protocol/tuic): TUIC defines a standardized network proxy protocol for relaying TCP and UDP traffic
 - [acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [fail2ban](https://github.com/fail2ban/fail2ban): Daemon to ban hosts that cause multiple authentication errors
+- [UxPlay](https://github.com/antimof/UxPlay): AirPlay Unix mirroring server
 
-### Language Server
+### Language Tool
 
 - [clangd](https://github.com/clangd/clangd): clangd language server
 - [ccls](https://github.com/MaskRay/ccls): C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
+- [cppcheck](https://github.com/cppcheck-opensource/cppcheck): static analysis of C/C++ code
 
 ## Tool
 
+### Dev Tool
+
+- [DevToys](https://github.com/DevToys-app/DevToys): A Swiss Army knife for developers
+- [studio](https://github.com/eez-open/studio): a free and open source cross-platform low-code visual tool for desktop and embedded GUIs with LVGL support
+
 ### TUI Tool
 
+- [dotbot](Zhttps://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles
 - [tmux](https://github.com/tmux/tmux): a terminal multiplexer
 - [zellij](https://github.com/zellij-org/zellij): a workspace aimed at developers, ops-oriented people and anyone who loves the terminal
 - [starship](https://github.com/starship/starship): The minimal, blazing-fast, and infinitely customizable prompt for any shell
 - [autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 - [mcfly](https://github.com/cantino/mcfly): Fly through your shell history
 - [Clipboard](https://github.com/Slackadays/Clipboard): smart clipboard manager
+- [rclone](https://github.com/rclone/rclone): rsync for cloud storage
+- [frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
 - [tlrc](https://github.com/tldr-pages/tlrc): Official tldr client written in Rust
+- [nvm](https://github.com/nvm-sh/nvm): Node Version Manager
+- [git-lfs](https://github.com/git-lfs/git-lfs): Git extension for versioning large files
+- [trzsz-ssh](https://github.com/trzsz/trzsz-ssh): an ssh client designed as a drop-in replacement for the openssh client
+- [mihomo](https://github.com/MetaCubeX/mihomo): A simple python pydantic model (type hint and autocompletion support) for Honkai
 - [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 - [lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 - [skopeo](https://github.com/containers/skopeo): Work with remote images registries - retrieving information, images, signing content
@@ -99,11 +113,13 @@
 - [dua-cli](https://github.com/Byron/dua-cli): View disk space usage and delete unwanted data, fast
 - [bloaty](https://github.com/google/bloaty): a size profiler for binaries
 - [bat](https://github.com/sharkdp/bat): A cat(1) clone with wings
+- [jq](https://github.com/jqlang/jq): Command-line JSON processor
 - [jless](https://github.com/PaulJuliusMartinez/jless): jless is a command-line JSON viewer
 - [lnav](https://github.com/tstack/lnav): Log file navigator
 - [tailspin](https://github.com/bensadeh/tailspin): A log file highlighter
 - [choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to cut
 - [hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer
+- [demumble](https://github.com/nico/demumble): A better c++filt and a better undname.exe, in one binary
 - [delta](https://github.com/dandavison/delta): A syntax-highlighting pager
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): makes your diffs human readable instead of machine readable
 - [icdiff](https://github.com/jeffkaufman/icdiff): improved colored diff
@@ -121,8 +137,10 @@
 - [compiledb](https://github.com/nickdiego/compiledb): Tool for generating Clang's JSON Compilation Database files for make-based build systems
 - [term.everything](https://github.com/mmulet/term.everything): Run any GUI app in the terminal
 - [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
+- [ytfzf](https://github.com/pystardust/ytfzf): A posix script to find and watch youtube videos from the terminal
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 - [termshark](https://github.com/gcla/termshark): A terminal UI for tshark, inspired by Wireshark
+- [netcap](https://github.com/bytedance/netcap): 基于DPDK的mbuf抓包分析的工具
 - [tio](https://github.com/tio/tio): A serial device I/O tool
 - [ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 - [frogmouth](https://github.com/Textualize/frogmouth): A Markdown browser for your terminal
@@ -136,6 +154,9 @@
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager): 纯粹的 Windows 右键菜单管理程序
 - [PowerToys](https://github.com/microsoft/PowerToys): a collection of utilities that supercharge productivity and customization on Windows
 - [LittleBigMouse](https://github.com/mgth/LittleBigMouse): DPI Aware mouse move across screens
+- [winfsp](https://github.com/winfsp/winfsp): Windows File System Proxy - FUSE for Windows
+- [sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
+- [poppler-windows](https://github.com/oschwartz10612/poppler-windows): Download Poppler binaries packaged for Windows with dependencies
 - [GeekDesk](https://github.com/BookerLiu/GeekDesk): Small, beautiful desktop quickstart management tool with integrated Everything search
 - [komorebi](https://github.com/LGUG2Z/komorebi): A tiling window manager for Windows
 - [glazewm](https://github.com/glzr-io/glazewm): a tiling window manager for Windows inspired by i3wm
@@ -151,11 +172,17 @@
 - [HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox): 一个纯净、强大、优雅的WinPE（不维护）
 - [tts-vue](https://github.com/LokerL/tts-vue): 微软语音合成工具
 
+### File Manager
+
+- [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager): free, open-source, quickly evolving, modern file manager
+- [spacedrive](https://github.com/spacedriveapp/spacedrive): an open source cross-platform file explorer
+
 ### Android Tool
 
 - [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
 - [Minimal-Todo](https://github.com/avjinder/Minimal-Todo): Material To-Do App
 - [plain-app](github.com/plainhub/plain-app): an open-source app that lets you securely manage your phone from a web browser
+- [localsend](https://github.com/localsend/localsend): a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection
 - [nextplayer](github.com/anilbeesetti/nextplayer): An Android native video player
 - [AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer): Android view for displaying PDFs rendered with PdfiumAndroid
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer): Android application to analyze Wi-Fi signals
@@ -168,7 +195,11 @@
 - [overleaf](https://github.com/overleaf/overleaf): A web-based collaborative LaTeX editor
 - [ImHex](https://github.com/WerWolv/ImHex): A Hex Editor for Reverse Engineers
 - [marktext](https://github.com/marktext/marktext): A simple and elegant markdown editor, available for Linux, macOS and Windows
+- [siyuan](https://github.com/siyuan-note/siyuan): a privacy-first personal knowledge management system, support fine-grained block-level reference and Markdown WYSIWYG
+- [tolaria](https://github.com/refactoringhq/tolaria): a desktop app for macOS, Windows, and Linux for managing markdown knowledge bases
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): free and open-source interactive source explorer
+- [sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot): Code AI platform with Code Search & Cody
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter): The code linting framework for Sublime Text
 
 ### Desktop Tool
 
@@ -182,7 +213,9 @@
 
 ### Desktop Extension Tool
 
+- [i3lock-color](https://github.com/Raymo111/i3lock-color): The world's most popular non-default computer lockscreen
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy): i3lock bash script is used to optimize the lock screen effect
+- [i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect): Simple solution to saving and restoring i3 workspaces
 - [i3status-rust](https://github.com/greshake/i3status-rust): a feature-rich and resource-friendly replacement for i3status
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status): a modular, theme-able status line generator for the i3 window manager
 - [polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
@@ -195,6 +228,7 @@
 - [Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors
 - [vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible
 - [flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software
+- [scrot](https://github.com/resurrecting-open-source-projects/scrot): command line screen capture utility
 - [plank](https://github.com/ricotz/plank): the simplest dock on the planet(X11 Only)
 - [dash-to-dock](https://github.com/micheleg/dash-to-dock): A dock for the Gnome Shell
 - [eww](https://github.com/elkowar/eww): ElKowars wacky widgets
@@ -257,6 +291,23 @@
 - [vlc](https://github.com/videolan/vlc): VLC media player
 - [mpc-hc](https://github.com/clsid2/mpc-hc): Media Player Classic
 - [celluloid](https://github.com/celluloid-player/celluloid): A simple GTK+ frontend for mpv
+- [lossless-cut](https://github.com/mifi/lossless-cut): The swiss army knife of lossless video/audio editing
+
+### Transform Tool
+
+- [deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer
+- [Pake](https://github.com/tw93/Pake): Turn any webpage into a desktop app with one command
+- [github1s](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code
+- [pintree](https://github.com/Pintree-io/pintree): Easily turn your browser bookmarks into a directory website
+- [markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown
+- [markmap](https://github.com/markmap/markmap): Visualize your Markdown as mindmaps
+- [gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another
+- [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii): A Node.js module that converts images to ASCII art
+
+### Flash Tool
+
+- [etcher](https://github.com/balena-io/etcher): Flash OS images to SD cards & USB drives, safely and easily
+- [bmaptool](https://github.com/yoctoproject/bmaptool): BMAP Tools
 
 ### Download Tool
 
@@ -277,6 +328,7 @@
 - [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid): A rule-based tunnel for Android
 - [clashtui](https://github.com/JohanChane/clashtui): Mihomo (Clash.Meta) TUI Client
 - [sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
+- [3x-ui](https://github.com/MHSanaei/3x-ui): advanced, open-source web-based control panel designed for managing Xray-core server
 
 ### 2FA
 
@@ -296,6 +348,9 @@
 
 ### Virtual Machine Tool
 
+- [incus](https://github.com/lxc/incus): Powerful system container and virtual machine manager
+- [renode](https://github.com/renode/renode): Antmicro's open source simulation and virtual development framework for complex embedded systems
+- [winboat](https://github.com/TibixDev/winboat): Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): a Bash script that creates a macOS virtual machine guest on VirtualBox
 - [unlocker](https://github.com/paolo-projects/unlocker): VMware Workstation macOS
@@ -306,6 +361,7 @@
 ### Browser Extension
 
 - [omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity
+- [octotree](https://github.com/ovity/octotree): Browser extension that enhances GitHub code review and exploration
 - [textfox](https://github.com/adriankarlen/textfox): firefox theme for the tui enthusiast
 - [cat-catch](https://github.com/xifangczy/cat-catch): 浏览器资源嗅探扩展
 
