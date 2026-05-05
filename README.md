@@ -59,6 +59,15 @@
 - [manim](https://github.com/ManimCommunity/manim): Manim is an animation engine for explanatory math videos
 - [textual](https://github.com/Textualize/textual): The lean application framework for Python
 
+### Web
+
+- [electron](https://github.com/electron/electron): Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [tauri](https://github.com/tauri-apps/tauri): a framework for building tiny, blazingly fast binaries for all major desktop platforms
+- [layui](https://github.com/layui/layui): 一套遵循浏览器原生态开发模式的 Web UI 组件库
+- [AriaNg](https://github.com/mayswind/AriaNg): a modern web frontend making aria2 easier to use
+- [ink](https://github.com/vadimdemedes/ink): React for interactive command-line apps
+- [tinyhttp](https://github.com/tinyhttp/tinyhttp): 0-legacy, tiny & fast web framework as a replacement of Express
+
 ### Network Protocol
 
 - [tuic](https://github.com/tuic-protocol/tuic): TUIC defines a standardized network proxy protocol for relaying TCP and UDP traffic
@@ -177,6 +186,15 @@
 - [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager): free, open-source, quickly evolving, modern file manager
 - [spacedrive](https://github.com/spacedriveapp/spacedrive): an open source cross-platform file explorer
 
+### File Server
+
+- [alist](https://github.com/AlistGo/alist): A file list program that supports multiple storages
+- [filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser
+- [filebrowser Quantum](https://github.com/gtsteffaniak/filebrowser): The best free self-hosted web-based file manager
+- [hfs](https://github.com/rejetto/hfs): HTTP File Server
+- [dufs](https://github.com/sigoden/dufs): A file server that supports static serving, uploading, searching, accessing control, webdav
+- [FastSend](https://github.com/ShouChenICU/FastSend): 一个基于 WebRTC 技术的点对点文件传输工具
+
 ### Android Tool
 
 - [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
@@ -200,6 +218,11 @@
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): free and open-source interactive source explorer
 - [sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot): Code AI platform with Code Search & Cody
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter): The code linting framework for Sublime Text
+
+### Whiteboard Tool
+
+- [drawnix](https://github.com/plait-board/drawnix): All in one open-source whiteboard tool with mind, flowchart, freehand and etc
+- [excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 
 ### Desktop Tool
 
@@ -292,6 +315,7 @@
 - [mpc-hc](https://github.com/clsid2/mpc-hc): Media Player Classic
 - [celluloid](https://github.com/celluloid-player/celluloid): A simple GTK+ frontend for mpv
 - [lossless-cut](https://github.com/mifi/lossless-cut): The swiss army knife of lossless video/audio editing
+- [plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
 
 ### Transform Tool
 
@@ -367,6 +391,7 @@
 
 ## Interesting projects
 
+- [win12](https://github.com/win12-online/win12): Windows 12 网页版
 - [deskhop](https://github.com/hrvach/deskhop): Fast Desktop Switching Device
 - [pikvm](https://github.com/pikvm/pikvm): Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [smartknob](https://github.com/scottbez1/smartknob): Haptic input knob with software-defined endstops and virtual detents
