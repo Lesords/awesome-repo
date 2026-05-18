@@ -67,6 +67,7 @@
 - [AriaNg](https://github.com/mayswind/AriaNg): a modern web frontend making aria2 easier to use
 - [ink](https://github.com/vadimdemedes/ink): React for interactive command-line apps
 - [tinyhttp](https://github.com/tinyhttp/tinyhttp): 0-legacy, tiny & fast web framework as a replacement of Express
+- [actix-web](https://github.com/actix/actix-web): a powerful, pragmatic, and extremely fast web framework for Rust
 
 ### Network Protocol
 
@@ -111,6 +112,7 @@
 - [fzf](https://github.com/junegunn/fzf): A command-line fuzzy finder
 - [fzy](https://github.com/jhawthorn/fzy): A simple, fast fuzzy finder for the terminal
 - [skim](https://github.com/skim-rs/skim): Fuzzy Finder in rust
+- [gum](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts
 - [ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern
 - [fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 - [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command
@@ -236,6 +238,7 @@
 
 ### Desktop Extension Tool
 
+- [autorandr](https://github.com/phillipberndt/autorandr): Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [i3lock-color](https://github.com/Raymo111/i3lock-color): The world's most popular non-default computer lockscreen
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy): i3lock bash script is used to optimize the lock screen effect
 - [i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect): Simple solution to saving and restoring i3 workspaces
@@ -255,6 +258,7 @@
 - [plank](https://github.com/ricotz/plank): the simplest dock on the planet(X11 Only)
 - [dash-to-dock](https://github.com/micheleg/dash-to-dock): A dock for the Gnome Shell
 - [eww](https://github.com/elkowar/eww): ElKowars wacky widgets
+- [quickshell](https://github.com/quickshell-mirror/quickshell): Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 
 ### Terminal Emulator
 
@@ -298,6 +302,11 @@
 - [grok-cli](https://github.com/superagent-ai/grok-cli): An open-source autonomous agent powered by Grok
 - [aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 - [tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
+- [agent-deck](https://github.com/asheshgoplani/agent-deck): Terminal session manager for AI coding agents
+- [superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works
+- [graphify](https://github.com/safishamsi/graphify): Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph
+- [claude-hud](github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+- [career-ops](https://github.com/santifer/career-ops): AI-powered job search system built on Claude Code
 
 ### HTTP Tool
 
@@ -316,6 +325,7 @@
 - [celluloid](https://github.com/celluloid-player/celluloid): A simple GTK+ frontend for mpv
 - [lossless-cut](https://github.com/mifi/lossless-cut): The swiss army knife of lossless video/audio editing
 - [plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player
+- [peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 
 ### Transform Tool
 
@@ -327,6 +337,7 @@
 - [markmap](https://github.com/markmap/markmap): Visualize your Markdown as mindmaps
 - [gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another
 - [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii): A Node.js module that converts images to ASCII art
+- [OpenCLI](https://github.com/jackwener/OpenCLI): Transform any website, Electron app, or local binary into a standardized command-line interface
 
 ### Flash Tool
 
@@ -391,6 +402,7 @@
 
 ## Interesting projects
 
+- [RuView](https://github.com/ruvnet/RuView): π RuView turns commodity WiFi signals into real-time spatial intelligence
 - [win12](https://github.com/win12-online/win12): Windows 12 网页版
 - [deskhop](https://github.com/hrvach/deskhop): Fast Desktop Switching Device
 - [pikvm](https://github.com/pikvm/pikvm): Open and inexpensive DIY IP-KVM based on Raspberry Pi
