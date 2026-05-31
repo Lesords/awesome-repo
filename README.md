@@ -159,6 +159,8 @@
 - [ShellCrash](https://github.com/juewuy/ShellCrash): Run sing-box/mihomo as client in shell
 - [shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models
 - [go-musicfox](https://github.com/go-musicfox/go-musicfox): 用Go写的一款网易云音乐命令行客户端
+- [cmatrix](https://github.com/abishekvashok/cmatrix): Terminal based "The Matrix" like implementation
+- [unimatrix](https://github.com/will8211/unimatrix): Python script to simulate the display from "The Matrix" in terminal
 
 ### Windows Tool
 
@@ -259,6 +261,8 @@
 - [dash-to-dock](https://github.com/micheleg/dash-to-dock): A dock for the Gnome Shell
 - [eww](https://github.com/elkowar/eww): ElKowars wacky widgets
 - [quickshell](https://github.com/quickshell-mirror/quickshell): Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
+- [noctalia-shell](https://github.com/noctalia-dev/noctalia-shell): A sleek and minimal desktop shell thoughtfully crafted for Wayland
+- [hyprshell](https://github.com/H3rmt/hyprshell): A modern GTK4-based window switcher and application launcher for Hyprland
 
 ### Terminal Emulator
 
@@ -302,6 +306,7 @@
 - [grok-cli](https://github.com/superagent-ai/grok-cli): An open-source autonomous agent powered by Grok
 - [aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 - [tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
+- [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix): DeepSeek-native AI coding agent for your terminal
 - [agent-deck](https://github.com/asheshgoplani/agent-deck): Terminal session manager for AI coding agents
 - [superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works
 - [graphify](https://github.com/safishamsi/graphify): Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph
