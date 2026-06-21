@@ -9,6 +9,7 @@
 - DiskGenius: 一款集资料恢复、资料备份还原及磁盘分割管理三大主要功能的工具软件
 - CrystalDiskMark: 磁盘测速工具
 - AsSSDBenchmark：固态硬盘测速工具
+- clonezilla: 分区/磁盘克隆工具
 
 ## PDF tool
 

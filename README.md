@@ -137,6 +137,7 @@
 - [tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly
 - [btop](https://github.com/aristocratos/btop): A monitor of resources
 - [bottom](https://github.com/ClementTsang/bottom): A customizable cross-platform graphical process/system monitor for the terminal
+- [nvtop](https://github.com/Syllo/nvtop): NVTOP stands for Neat Videocard TOP, a (h)top like task monitor for GPUs and accelerators
 - [gotop](https://github.com/cjbassi/gotop): A terminal based graphical activity monitor inspired by gtop and vtop
 - [sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting
 - [wavemon](https://github.com/uoaerg/wavemon): wavemon is an ncurses-based monitoring application for wireless network devices on Linux
@@ -185,6 +186,13 @@
 - [HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox): 一个纯净、强大、优雅的WinPE（不维护）
 - [tts-vue](https://github.com/LokerL/tts-vue): 微软语音合成工具
 
+### Tmux Extension Tool
+
+- [sesh](https://github.com/joshmedeski/sesh): Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide
+- [tmuxinator](https://github.com/tmuxinator/tmuxinator): Manage complex tmux sessions easily
+- [tmuxp](https://github.com/tmux-python/tmuxp): Session manager for tmux, built on libtmux
+- [smug](https://github.com/ivaaaan/smug): Session manager and task runner for tmux
+
 ### File Manager
 
 - [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager): free, open-source, quickly evolving, modern file manager
@@ -222,6 +230,7 @@
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): free and open-source interactive source explorer
 - [sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot): Code AI platform with Code Search & Cody
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter): The code linting framework for Sublime Text
+- [neovide](https://github.com/neovide/neovide): No Nonsense Neovim Client in Rust
 
 ### Whiteboard Tool
 
@@ -271,6 +280,7 @@
 - [ghostty](https://github.com/ghostty-org/ghostty): Ghostty is a fast, feature-rich, and cross-platform terminal emulator
 - [wezterm](https://github.com/wezterm/wezterm): A GPU-accelerated cross-platform terminal emulator and multiplexer
 - [WindTerm](https://github.com/kingToolbox/WindTerm): A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal
+- [Kaku](https://github.com/tw93/Kaku): A fast, out-of-the-box terminal built for AI coding
 - [cmux](https://github.com/manaflow-ai/cmux): Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [limux](https://github.com/am-will/limux): GPU-accelerated terminal multiplexer for Linux
 
@@ -299,6 +309,8 @@
 
 ### Vibe coding tool
 
+#### AI Coding Agent
+
 - [claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal
 - [opencode](https://github.com/anomalyco/opencode): The open source coding agent
 - [codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
@@ -307,11 +319,16 @@
 - [aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 - [tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix): DeepSeek-native AI coding agent for your terminal
+- [goose](https://github.com/aaif-goose/goose): An open source, extensible AI agent that goes beyond code suggestions — install, execute, edit, and test with any LLM
+
+#### Agent Extension & Tools
+
 - [agent-deck](https://github.com/asheshgoplani/agent-deck): Terminal session manager for AI coding agents
 - [superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works
 - [graphify](https://github.com/safishamsi/graphify): Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph
 - [claude-hud](github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [career-ops](https://github.com/santifer/career-ops): AI-powered job search system built on Claude Code
+- [Pensieve](https://github.com/kingkongshot/Pensieve): Give your AI agent a continuously growing project memory
 
 ### HTTP Tool
 
@@ -348,6 +365,7 @@
 
 - [etcher](https://github.com/balena-io/etcher): Flash OS images to SD cards & USB drives, safely and easily
 - [bmaptool](https://github.com/yoctoproject/bmaptool): BMAP Tools
+- [clonezilla](https://github.com/stevenshiau/clonezilla): A partition or disk imaging/cloning tool
 
 ### Download Tool
 
