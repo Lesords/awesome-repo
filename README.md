@@ -156,12 +156,14 @@
 - [tio](https://github.com/tio/tio): A serial device I/O tool
 - [ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 - [frogmouth](https://github.com/Textualize/frogmouth): A Markdown browser for your terminal
+- [glow](https://github.com/charmbracelet/glow): Render markdown on the CLI
 - [ttyper](https://github.com/max-niederman/ttyper): Terminal-based typing test
 - [ShellCrash](https://github.com/juewuy/ShellCrash): Run sing-box/mihomo as client in shell
 - [shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models
 - [go-musicfox](https://github.com/go-musicfox/go-musicfox): 用Go写的一款网易云音乐命令行客户端
 - [cmatrix](https://github.com/abishekvashok/cmatrix): Terminal based "The Matrix" like implementation
 - [unimatrix](https://github.com/will8211/unimatrix): Python script to simulate the display from "The Matrix" in terminal
+- [chafa](https://github.com/hpjansson/chafa): Terminal graphics for the 21st century
 
 ### Windows Tool
 
@@ -250,6 +252,7 @@
 ### Desktop Extension Tool
 
 - [autorandr](https://github.com/phillipberndt/autorandr): Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
+- [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen): fast and sweet looking lockscreen for linux systems with effects
 - [i3lock-color](https://github.com/Raymo111/i3lock-color): The world's most popular non-default computer lockscreen
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy): i3lock bash script is used to optimize the lock screen effect
 - [i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect): Simple solution to saving and restoring i3 workspaces
@@ -311,6 +314,7 @@
 
 #### AI Coding Agent
 
+- [hermes-agent](https://github.com/NousResearch/hermes-agent): The agent that grows with you
 - [claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal
 - [opencode](https://github.com/anomalyco/opencode): The open source coding agent
 - [codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
@@ -323,12 +327,16 @@
 
 #### Agent Extension & Tools
 
+- [herdr](https://github.com/ogulcancelik/herdr): agent multiplexer that lives in your terminal
+- [orca](https://github.com/stablyai/orca): Orca is the ADE for working with a fleet of parallel agents
 - [agent-deck](https://github.com/asheshgoplani/agent-deck): Terminal session manager for AI coding agents
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode): Teams-first Multi-agent orchestration for Claude Code
 - [superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works
 - [graphify](https://github.com/safishamsi/graphify): Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph
 - [claude-hud](github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [career-ops](https://github.com/santifer/career-ops): AI-powered job search system built on Claude Code
 - [Pensieve](https://github.com/kingkongshot/Pensieve): Give your AI agent a continuously growing project memory
+- [caveman](https://github.com/JuliusBrussee/caveman): Make your AI coding agent talk like a caveman
 
 ### HTTP Tool
 
